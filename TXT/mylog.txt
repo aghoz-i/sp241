@@ -6,3 +6,8 @@ ZCZC W00 10 L27 SSH, scp related
 ZCZC W00 10 L26 key-gen
 ZCZC W00 5 L03 Git related
 ZCZC W00 15 L26 GnuPG
+ZCZC W01 60 L28 Installing Jekyll
+ZCZC W01 5 L44 Add TXT/myscript.sh
+ZCZC W01 5 L44 Configuring TXT/myscript.sh
+ZCZC W01 5 L45 TXT/SHA256SUM related
+
