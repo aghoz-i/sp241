@@ -1,6 +1,6 @@
 ZCZC W00 10 L03 Github Related
 ZCZC W00 10 L04 Github Pages Related
-ZCZC W00 100 Zoom meetings related
+ZCZC W00 100 L02 Zoom meetings related
 ZCZC W00 50 L31 VirtualBox: install Debian
 ZCZC W00 10 L27 SSH, scp related
 ZCZC W00 10 L26 key-gen
@@ -10,4 +10,6 @@ ZCZC W01 60 L28 Installing Jekyll
 ZCZC W01 5 L44 Add TXT/myscript.sh
 ZCZC W01 5 L44 Configuring TXT/myscript.sh
 ZCZC W01 5 L45 TXT/SHA256SUM related
+ZCZC W01 150 L02 Zoom meetings related
+ZCZC W01 120 L11 Assignment #01
 
