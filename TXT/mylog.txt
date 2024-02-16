@@ -12,4 +12,5 @@ ZCZC W01 5 L44 Configuring TXT/myscript.sh
 ZCZC W01 5 L45 TXT/SHA256SUM related
 ZCZC W01 150 L02 Zoom meetings related
 ZCZC W01 120 L11 Assignment #01
+ZCZC W01 5 L03 Git related
 
