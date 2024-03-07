@@ -22,3 +22,6 @@ ZCZC W03 20 L05 Pop Quiz W03-1 Update Kernel Done
 ZCZC W03 120 L09 Week 03 Assignment+Pop Quizzes Done
 ZCZC W03 5 L40 TXT/ related
 ZCZC W03 5 L03 Git related
+ZCZC W04 133 L09 Week 04 Assignment+Pop Quizzes Done
+ZCZC W04 5 L40 TXT/ related
+ZCZC W04 5 L03 Git related
