@@ -31,3 +31,6 @@ ZCZC W05 5 L03 Git related
 ZCZC W06 120 L09 Week 06 Assignment+Pop Quizzes Done
 ZCZC W06 5 L40 TXT/ related
 ZCZC W06 5 L03 Git related
+ZCZC W07 360 L09 Week 07 Assignment+Pop Quizzes Done
+ZCZC W07 5 L40 TXT/ related
+ZCZC W07 5 L03 Git related
