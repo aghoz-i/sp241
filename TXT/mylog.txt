@@ -37,3 +37,6 @@ ZCZC W07 5 L03 Git related
 ZCZC W08 200 L09 Week 08 Assignment
 ZCZC W08 5 L40 TXT/ related
 ZCZC W08 5 L03 Git related
+ZCZC W09 240 L09 Week 09 Assignment
+ZCZC W09 5 L40 TXT/ related
+ZCZC W09 5 L03 Git related
